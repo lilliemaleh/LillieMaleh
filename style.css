@@ -4,7 +4,7 @@
 
 
 h1 {
-    padding-top: 10px;
+    padding-top: 30px;
     margin-top: 0;
     color:#a484cc;
     transition:all 0.2s ease-in-out;
@@ -81,5 +81,27 @@ ol {
 p {
     margin:0 15%;
     padding:40px;
-    border-radius: 20%;
+    border-radius: 20px;
+}
+
+h1#title {
+    font-family:'Marck Script', cursive; 
+    font-size:45px;
+    background-color: white;
+    padding-bottom: 30px;
+    margin: 0;
+}
+
+nav {
+    background-color: #a484cc;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  
+}
+
+nav a {
+    color:#FFF;
+    text-decoration:none;
+    margin-left:20px;
+    
 }
